@@ -1,4 +1,4 @@
-# Android device tree for vivo vivo 1901 (k62v1_64_bsp)
+# Android Recovery device tree for vivo 1901 (k62v1_64_bsp)
 
 ```
 #
